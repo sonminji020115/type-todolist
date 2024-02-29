@@ -1,0 +1,24 @@
+/* CheckBox.css */
+.CheckBox{
+    width: 20px;
+    height: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: rgb(195, 165, 165);
+    border: 2px solid rgb(195, 165, 165);
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.container:hover {
+    background-color: rgb(84, 163, 111);
+    border: 2px solid rgb(84, 163, 111);
+}
+
+.checkIcon {
+    font-size: 30px;
+    color: rgb(250, 250, 250);
+}
