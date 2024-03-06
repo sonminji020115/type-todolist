@@ -1,6 +1,7 @@
 /* App.css */
 .App {
     padding: 30px;
+    height: 100vh;
     text-align: center;
     background: #d9a7c7;
     /* fallback for old browsers */
